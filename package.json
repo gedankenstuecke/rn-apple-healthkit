@@ -1,11 +1,11 @@
 {
   "name": "@gedankenstuecke/rn-apple-healthkit",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A React Native package for interacting with Apple HealthKit",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/terrillo/rn-apple-healthkit.git"
+    "url": "git+https://github.com/gedankenstuecke/rn-apple-healthkit.git"
   },
   "keywords": [
     "Apple",
