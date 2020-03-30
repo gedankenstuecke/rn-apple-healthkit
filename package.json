@@ -1,6 +1,6 @@
 {
-  "name": "rn-apple-healthkit",
-  "version": "0.8.0",
+  "name": "@gedankenstuecke/rn-apple-healthkit",
+  "version": "0.0.1",
   "description": "A React Native package for interacting with Apple HealthKit",
   "main": "index.js",
   "repository": {
@@ -18,10 +18,10 @@
     "ios"
   ],
   "bugs": {
-    "url": "https://github.com/terrillo/rn-apple-healthkit/issues"
+    "url": "https://github.com/gedankenstuecke/rn-apple-healthkit/issues"
   },
-  "homepage": "https://github.com/terrillo/rn-apple-healthkit",
-  "author": "Terrillo Walls",
+  "homepage": "https://github.com/gedankenstuecke/rn-apple-healthkit",
+  "author": "Bastian Greshake Tzovaras",
   "license": "MIT",
   "devDependencies": {
     "react": "16.8.3",
